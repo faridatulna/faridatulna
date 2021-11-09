@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @faridatulna
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Developement with React, Mobile Development with Kotlin, Sometime about Data
+# :wave: Hi!
+I'm Farida, currently working as Product engineer @ ![Dicoding Indonesia](https://www.dicoding.com/). Interest on Web, Android, Data, Writing, and Book. 
+
+- Article Post : https://medium.com/@faridaaidah
 
 <!---
 faridatulna/faridatulna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
