@@ -1,5 +1,5 @@
 # :wave: Hi!
-I'm Farida, currently working as Product engineer @ ![Dicoding Indonesia](https://www.dicoding.com/). Interest on Web, Android, Data, Writing, and Book. 
+I'm Farida, currently working as Product engineer @ [Dicoding Indonesia](https://www.dicoding.com/). Interest on Web, Android, Data, Writing, and Book. 
 
 - Article Post : https://medium.com/@faridaaidah
 
